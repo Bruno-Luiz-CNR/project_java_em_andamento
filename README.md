@@ -38,6 +38,7 @@ Executar a Aplicação:Bashjava -cp bin principal.Principal
 ======================================
 
 ================ MENU PRINCIPAL ================
+
  👤 1) Gestão de Clientes: Cadastrar Novo
  
  🛒 2) Gestão de Pedidos: Criar Novo Pedido
@@ -49,6 +50,7 @@ Executar a Aplicação:Bashjava -cp bin principal.Principal
  🚪 S) Sair do Sistema
  
 ================================================
+
 ➡️ Escolha uma opção (1-4 ou S): 
 Basta digitar o número da opção desejada e seguir as instruções no console.
 
