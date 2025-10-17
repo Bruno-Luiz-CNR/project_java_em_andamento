@@ -33,12 +33,12 @@ java:Bashjavac -d bin src/model/*.java src/repository/*.java src/principal/*.jav
 Executar a Aplicação:Bashjava -cp bin principal.Principal
 🖥️ Menu InterativoAo iniciar, você verá o seguinte menu de opções:
 
-=============================================
-  ✨ BEM-VINDO AO SISTEMA DE GESTÃO DE PEDIDOS ✨
-=============================================
+======================================
+✨ BEM-VINDO AO SISTEMA DE GESTÃO DE PEDIDOS ✨
+======================================
 
 ================ MENU PRINCIPAL ================
- 👤 1) Gestão de Clientes: Cadastrar Novo
+ 👤 1) Gestão de Clientes: Cadastrar Novo \n
  🛒 2) Gestão de Pedidos: Criar Novo Pedido
  📋 3) Visualizar Pedidos: Mostrar Lista
  🗑️ 4) Gestão de Clientes: Remover Cliente
