@@ -22,7 +22,9 @@ PedidosModelo (POJO)Representa um pedido, incluindo id, idCliente, valorTotal, d
 RepositorioRepositórioClasse centralizada para gerenciar coleções (ArrayList) de objetos Cliente e Pedidos em memória.
  Contém lógica para salvar, listar, buscar e remover.principal.
 PrincipalPrincipal (Main)Contém o método main() e toda a lógica de interação com o usuário (Menu)
-e orquestração das chamadas ao Repositorio.⚙️ Configuração e ExecuçãoPré-requisitosPara executar este projeto,
+e orquestração das chamadas ao Repositorio.
+
+⚙️ Configuração e ExecuçãoPré-requisitosPara executar este projeto,
  você precisará ter instalado:Java Development Kit (JDK): Versão 8 ou superior (recomenda-se Java 17+).
 
 🚀 Como ExecutarSe estiver usando uma IDE (como IntelliJ, Eclipse, VS Code):Abra o projeto na sua IDE.
@@ -61,5 +63,5 @@ são armazenados apenas na memória (ArrayList) através da classe Repositorio.
 Ao encerrar o programa (Sair), todos os dados são perdidos.IDs Automáticos: 
 O Repositorio é responsável por gerenciar e atribuir IDs sequenciais tanto para 
 Cliente quanto para Pedidos.Setters em Uso: Embora o menu não tenha uma opção "Atualizar",
- os métodos setters de Cliente.java são utilizados internamente pelo Repositorio para atribuir o ID automático
- e para futuras implementações de atualização de dados.
+os métodos setters de Cliente.java são utilizados internamente pelo Repositorio para atribuir o ID automático
+e para futuras implementações de atualização de dados.
