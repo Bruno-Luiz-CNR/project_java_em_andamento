@@ -34,7 +34,9 @@ Executar a Aplicação:Bashjava -cp bin principal.Principal
 🖥️ Menu InterativoAo iniciar, você verá o seguinte menu de opções:
 
 ======================================
+
 ✨ BEM-VINDO AO SISTEMA DE GESTÃO DE PEDIDOS ✨
+
 ======================================
 
 ================ MENU PRINCIPAL ================
